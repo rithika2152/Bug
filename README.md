@@ -45,6 +45,11 @@ A role-based bug and task tracking application built using **Next.js**, designed
 └── utils/
 
 ---
+##📦 Deployment
+The app is ready to be deployed on platforms like Vercel or Netlify.
+
+📹 Demo
+🔗 Live Demo: https://bug-tracker-rithika.netlify.app/
 
 ## 🧪 Mock Credentials
 
@@ -61,11 +66,10 @@ A role-based bug and task tracking application built using **Next.js**, designed
     "role": "manager"
   }
 ]
-📦 Deployment
-The app is ready to be deployed on platforms like Vercel or Netlify.
 
-📹 Demo
-🔗 Live Demo: https://bug-tracker-rithika.netlify.app/
+---
+
+
 
 🎥 Video Walkthrough:https://drive.google.com/file/d/1FE0nqbH1ruOERM3UH3sMWCcDtCz3xJFO/view?usp=drive_link
 
